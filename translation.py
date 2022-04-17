@@ -4,17 +4,7 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>🙋‍♂️Hey {}!!</b>
-
-<b>I am a Pro AutoFilterBot V2....😜</b>
-
-<b>Make me an admin for your group and channel then connect me....🎉</b>
-
-<b>🙂Watch the video below to build an Pro Autofilter bot V2 like me...</b>
-
-<b>Subscribe to the update channel to learn about my updates and activity...</b>
-
-<b>Press /help to know about available commands🤪</b>"""    
+    START_TEXT = "ഞാൻ ഒരു ഗ്രൂപ്പ് മാനേജർ ബോട്ട് ആണ് പക്ഷെ വെറുതെ സമയം കളയണ്ട എന്നെ Ma മൂവീസ് ഗ്രൂപ്പിൽ മാത്രമേ ഉപയോഗിക്കാൻ കഴിയൂ \n @Ma_movies_group" 
     
     HELP_TEXT = """
 <b>😉How To Use Me!😉?</b>
@@ -48,12 +38,13 @@ class Translation(object):
             
 <b><a href="https://t.me/Mo_Tech_YT">© Mo Tech YT</a></b>
 """
+    @Ma_movies_group
     
-    ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Pro Auto Filter Bot</b>
+    ABOUT_TEXT = """<b>➥ 📃Name</b> : ബ്ലാക്ക് വിഡോ
 
 <b>>➥👨‍💼Master</b> : <b><a href="https://t.me/AlbertEinstein_TG">👤Albert Einstein</a></b>
 
-<b>➥ 👨‍💻Editor</b> : <b><a href="https://t.me/MRk_YT">👤Mrk YT</a></b>
+<b>➥ 👨‍💻Editor</b> : <b><a href="https://t.me/MR_THOR_01"
 
 <b>➥ 🗣️Language</b> : <b>Python3<b>
 
